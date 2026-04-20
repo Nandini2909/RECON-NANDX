@@ -1,4 +1,4 @@
-![Recon-Nandx Banner](assets/banner.png)
+![Recon-Nandx Banner]((https://ibb.co/JYG7h0g))
 
 # Recon-Nandx 🚀
 ### Automated Reconnaissance Tracking & Asset Management Platform
